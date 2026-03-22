@@ -1,17 +1,18 @@
 ---
 name: Professionalize GitHub Profile README
-description: "Rewrite or improve a GitHub profile README to look professional, concise, and recruiter-friendly"
+description: "Rewrite a GitHub profile README into a high-technical, senior-grade professional profile"
 argument-hint: "Paste current README content or describe the profile style you want"
 agent: agent
 ---
 Create or refine a GitHub profile `README.md` for the profile repository (username repository).
 
 Requirements:
-- Keep tone professional, confident, and concise.
-- Use accurate project information only; do not invent achievements.
-- Include these sections when possible: About, Featured Projects, Tech Stack, Current Focus, Contact.
+- Keep tone technical, credible, and concise.
+- Use accurate project information only; do not invent metrics or achievements.
+- Prioritize architecture depth over generic portfolio language.
 - Keep markdown readable on both mobile and desktop.
-- Prefer clean formatting over visual clutter.
+- Prefer clean formatting over decorative clutter.
+- Write like a hiring manager or senior engineer is scanning for technical ownership.
 
 Inputs to use:
 - Selected text or current `README.md` content.
@@ -21,9 +22,10 @@ Inputs to use:
 Output format:
 1. Return the full improved `README.md` content.
 2. Then provide a short "Why this works" section with 3-5 bullets.
-3. Then provide 2 optional variants: `Minimal` and `Technical` (short outlines only).
+3. Then provide 2 optional variants: `Minimal` and `Recruiter + Technical` (short outlines only).
 
 Quality bar:
 - No hype wording, no filler, no fake metrics.
-- Clear project descriptions in one line each.
+- Each major project should include stack + architecture + implementation detail.
+- Highlight concrete engineering signals: contracts, performance constraints, runtime behavior, tooling, and deployment path.
 - Language and grammar should be polished.
