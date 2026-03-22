@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/06hardik"><img src="https://img.shields.io/badge/GitHub-06hardik-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/hardik-jindal-a5b8a8325/"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Jindal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:hardikjindal2020@gmail.com"><img src="https://img.shields.io/badge/Email-hardikjindal2020@gmail.com-informational?style=for-the-badge&logo=gmail" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=06hardik&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
@@ -106,6 +107,7 @@ Multi-module hackathon system with frontend, backend, and CV service separation.
 ## Contact
 - Email: `hardikjindal2020@gmail.com`
 - GitHub: [github.com/06hardik](https://github.com/06hardik)
+- LinkedIn: [linkedin.com/in/hardik-jindal-a5b8a8325](https://www.linkedin.com/in/hardik-jindal-a5b8a8325/)
 
 ---
-If you are hiring for strong execution in APIs, ML integration, and security-oriented systems, I would be glad to connect.
+If you are hiring for strong execution in APIs, ML integration, and security-oriented systems, I would be glad to connect on [LinkedIn](https://www.linkedin.com/in/hardik-jindal-a5b8a8325/) or by email.
